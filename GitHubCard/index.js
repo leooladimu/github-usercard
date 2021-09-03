@@ -18,7 +18,7 @@
 */
 
 /*
-  STEP 5: Now that you have your own card getting added to the DOM, either
+  STEP 5: ow that you have your own card getting added to the DOM, either
     follow this link in your browser https://api.github.com/users/<Your github name>/followers,
     manually find some other users' github handles, or use the list found at the
     bottom of the page. Get at least 5 different Github usernames and add them as
